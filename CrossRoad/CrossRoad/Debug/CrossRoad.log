@@ -1,0 +1,4 @@
+﻿  CrossRoad.cpp
+\\home.org.aalto.fi\khamism1\data\Desktop\My_projects\CrossRoad\CrossRoad\CrossRoad.cpp(128,14): warning C4553:  '==': result of expression not used; did you intend '='?
+\\home.org.aalto.fi\khamism1\data\Desktop\My_projects\CrossRoad\CrossRoad\CrossRoad.cpp(162,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CrossRoad.vcxproj -> \\home.org.aalto.fi\khamism1\data\Desktop\My_projects\CrossRoad\Debug\CrossRoad.exe
